@@ -24,3 +24,6 @@ Quick Stats:
 - Rookie All Star at San Francisco Regionals
 - Went to World Championships
 - Won the Championship Division Highest Rookie Seed Award!
+
+## Code on our robot
+- [2022, Rapid React](https://github.com/frc8840/2022-Season)
