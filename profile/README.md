@@ -4,7 +4,7 @@
 
 Bay Robotics is FRC team 8840, founded in late 2021. We are based in San Francisco, California USA. Our rookie year was in 2022. We are part of the [Bay School of San Francisco](https://bayschoolsf.org). Our team is currently made up of ~6 active members. Visit our website [here](https://team8840.org/)!  
 
-Sponsored by [Padlet](https://padlet.com/).
+Thank you to our sponsors, [Mux](https://www.mux.com/), [Scribd](https://www.scribd.com/), and [Coderpad](https://coderpad.io/). View all of our sponsors [here](https://www.team8840.org/sponsors).
 
 ## 2022 Season
 
