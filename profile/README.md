@@ -14,6 +14,7 @@ Quick Stats:
 - Developed [better-downloader](https://github.com/frc8840/better-downloader)
 - Developed [8840-app](https://github.com/frc8840/8840-app)
 - Became a school team (part of the [Bay School of San Francisco](https://bayschoolsf.org)!)
+- Expanded the team, started doing outreach.
 
 ## 2022 Season, Rapid React
 
