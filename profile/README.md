@@ -21,9 +21,9 @@ Quick Stats:
 Quick Stats:
 - Rookie Team (2022)
 - Was Comprised of ~6 People
-- Rookie All Star at San Francisco Regionals
+- Won Rookie All Star at San Francisco Regionals!
 - Went to World Championships
-- Won the Championship Division Highest Rookie Seed Award!
+- Won Championship Division Highest Rookie Seed Award in Roebling Division!
 
 ## Code on our robot
 - [2022, Rapid React](https://github.com/frc8840/2022-Season)
