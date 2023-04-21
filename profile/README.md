@@ -8,7 +8,11 @@ Thank you to our sponsors, [Mux](https://www.mux.com/), [Scribd](https://www.scr
 
 ## 2023 Season, Charged Up
 
-- In Progress!
+- Second year (2023).
+- Expanded team.
+- Competed in San Francisco Regionals.
+- Competed in Silicon Valley Regionals.
+- Became a backup team in Silicon Valley Regionals and competed in a playoff match.
 
 ## Pre-season to 2023 Season (mid-2022)
 
@@ -31,3 +35,4 @@ Quick Stats:
 
 ## Code on our robot
 - [2022, Rapid React](https://github.com/frc8840/2022-Season)
+- [2023, Charged Up](https://github.com/frc8840/2023-Season)
