@@ -6,6 +6,11 @@ Bay Robotics is FRC team 8840, founded in late 2021. We are based in San Francis
 
 Thank you to our sponsors, [Mux](https://www.mux.com/), [Scribd](https://www.scribd.com/), [Coderpad](https://coderpad.io/), [Intuitive](https://www.intuitive.com/), and [First Robotics - California](https://cafirst.org/). View all of our sponsors [here](https://www.team8840.org/sponsors).
 
+## Pre-season to 2024 Season (mid-2023)
+
+- Continued improving skills and expanding the programming team.
+- Continued developing [8440-utils](https://github.com/frc8840/8840-utils).
+
 ## 2023 Season, Charged Up
 
 - Second year (2023).
