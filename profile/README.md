@@ -4,7 +4,20 @@
 
 Bay Robotics is FRC team 8840, founded in late 2021. We are based in San Francisco, California USA. Our rookie year was in 2022. We are part of the [Bay School of San Francisco](https://bayschoolsf.org). Our team is currently made up of ~20 members. Visit our website [here](https://team8840.org/)!  
 
-Thank you to our sponsors, [Mux](https://www.mux.com/), [Scribd](https://www.scribd.com/), [Coderpad](https://coderpad.io/), [Intuitive](https://www.intuitive.com/), and [First Robotics - California](https://cafirst.org/). View all of our sponsors [here](https://www.team8840.org/sponsors).
+Thank you to our sponsors! View all of our sponsors [here](https://www.team8840.org/sponsors).
+
+View our [BlueAlliance page here](https://www.thebluealliance.com/team/8840).
+
+## Pre-season to 2024 Season (mid-2024)
+
+- ...who knows?
+
+## 2024 Season
+
+- Competed in San Francisco Regionals
+- Competed in Central Valley Regionals
+- Central Valley Regional Champions
+- Competed in World Championships again (Milstein division).
 
 ## Pre-season to 2024 Season (mid-2023)
 
